@@ -1,6 +1,6 @@
 # Saving Private Rylan
 
-A tower defense game
+A tower defense game.
 
 ![Alt text](1.jpg?raw=true "Demo")
 ![Alt text](2.jpg?raw=true "Demo")
